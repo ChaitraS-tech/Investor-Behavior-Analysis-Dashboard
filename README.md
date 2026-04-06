@@ -88,15 +88,6 @@ The dataset includes the following fields:
 
 ---
 
-# How to Run the Project
-
-1. Download the `.pbix` file
-2. Open in Microsoft Power BI Desktop
-3. Load the dataset if required
-4. Interact with dashboard using filters and slicers
-
----
-
 # Future Enhancements
 
 * Add predictive analytics using Machine Learning
